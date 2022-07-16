@@ -11,6 +11,17 @@
 - 📺 [YouTube](https://www.youtube.com/channel/UCAP6bWBoRYX7XGsSJYbMzmA)
 - ❤ [Subscribe to update](https://boosty.to/valeria.fadeeva/ref)
 
+### Courses:
+- ✅ Intro in C
+- ✅ Basics PHP
+- ✅ Basics Python
+- 📜 Basics JavaScript (in process)
+- ✅ Basics command shell
+- ✅ Intro in Git
+
+- 🪪 LL-101: Basics of working in the Linux operating system
+
+
 ### My resume
 https://github.com/Valeria-Fadeeva/Valeria-Fadeeva/blob/main/my-resume.md
 
