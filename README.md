@@ -10,6 +10,7 @@
 - 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
 - 📺 [YouTube](https://www.youtube.com/channel/UCAP6bWBoRYX7XGsSJYbMzmA)
 - ❤ [Subscribe to update](https://boosty.to/valeria.fadeeva/ref)
+- ☕ [Buy me a coffee](https://yoomoney.ru/to/4100115921160758)
 
 ### Courses:
 - ✅ Intro in C
