@@ -6,6 +6,7 @@
 - 📫 How to reach me https://valeria.fadeeva.me / Russia, Ekaterinburg
 
 ### @Valeria_Fadeeva
+- ✉ [Discord Server](https://discord.gg/cY68zDnnqF)
 - ✉ [Telegram](https://t.me/Valeria_Fadeeva_me)
 - 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
 - 📺 [YouTube](https://www.youtube.com/channel/UCAP6bWBoRYX7XGsSJYbMzmA)
