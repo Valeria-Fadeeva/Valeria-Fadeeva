@@ -1,23 +1,32 @@
-# About Me 🌸
+# 🌸 About Me
 - 👋 Hi, I’m @Valeria-Fadeeva
-- 👀 I’m interested in Python, Rust, JavaScript, TypeScript, PHP, Linux
-- 🌱 I’m currently learning Rust, Python, PHP
-- 💞️ I’m looking to collaborate on small project
-- 📫 How to reach me https://valeria.fadeeva.me / Russia, Ekaterinburg
+- 🌎 I live in Russia, Ekaterinburg
+- 👀 I’m interested in Python, Rust, JavaScript, TypeScript, Linux
+- 🌱 I’m currently learning Python, JavaScript, Rust
+- 👩 I have experience as a system administrator and programmer.
+- 🔖 My site https://valeria.fadeeva.me 
+- 💬 Write to me on [Telegram](https://t.me/Valeria_Fadeeva_me)
+
+## ❤️ My choice: 
+- Python (Django, DRF, Django ORM, Flask, AioHTTP, FastAPI, SQLAlchemy)
+- JS (Vue, Vite, React)
+- Rust (Tokio, Rocket, Warp)
+- SQL (SQLite, PostgreSQL)
+- Dart/Flutter
 
 ### @Valeria_Fadeeva
-- ✉ [Discord Server](https://discord.gg/cY68zDnnqF)
-- ✉ [Telegram](https://t.me/Valeria_Fadeeva_me)
-- 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
+- 🌟 [Discord Server of my community](https://discord.gg/cY68zDnnqF)
 - 📺 [YouTube](https://www.youtube.com/channel/UCAP6bWBoRYX7XGsSJYbMzmA)
-- ❤ [Subscribe to update](https://boosty.to/valeria.fadeeva/ref)
+- 💬 [Telegram](https://t.me/Valeria_Fadeeva_me)
+- 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
+- ❤️ [Subscribe to update](https://boosty.to/valeria.fadeeva/ref)
 - ☕ [Buy me a coffee](https://yoomoney.ru/to/4100115921160758)
 
 ### Courses:
 - ✅ Intro in C
 - ✅ Basics PHP
 - ✅ Basics Python
-- 📜 Basics JavaScript (in process)
+- ✅ Basics JavaScript
 - ✅ Basics command shell
 - ✅ Intro in Git
 
