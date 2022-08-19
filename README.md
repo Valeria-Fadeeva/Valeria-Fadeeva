@@ -31,6 +31,7 @@
 - ✅ Intro in Git
 - ✅ LL-101: Basics of working in the Linux operating system
 
+![Valeria-Fadeeva GitHub stats](https://github-readme-stats.vercel.app/api?username=Valeria-Fadeeva&show_icons=true&theme=radical)
 
 ### My resume
 https://github.com/Valeria-Fadeeva/Valeria-Fadeeva/blob/main/my-resume.md
