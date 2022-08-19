@@ -29,8 +29,7 @@
 - ✅ Basics JavaScript
 - ✅ Basics command shell
 - ✅ Intro in Git
-
-- 🪪 LL-101: Basics of working in the Linux operating system
+- ✅ LL-101: Basics of working in the Linux operating system
 
 
 ### My resume
