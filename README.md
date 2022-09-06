@@ -12,7 +12,7 @@
 - **JS** (**Vue**, Vite, React)
 - Rust (Tokio, Rocket, Warp)
 - **SQL** (**SQLite, PostgreSQL**)
-- Dart/Flutter or **Kotlin Multiplatform Mobile**
+- **Kotlin Multiplatform Mobile** or Dart/Flutter
 
 ### @Valeria_Fadeeva
 - 🌟 [Discord Server of my community](https://discord.gg/cY68zDnnqF)
