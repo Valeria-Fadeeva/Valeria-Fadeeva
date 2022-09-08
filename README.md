@@ -1,8 +1,8 @@
 # 🌸 About Me
 - 👋 Hi, I’m @Valeria-Fadeeva
 - 🌎 I live in Russia, Ekaterinburg
-- 👀 I’m interested in Python, Rust, JavaScript, TypeScript, Linux
-- 🌱 I’m currently learning Python, JavaScript, Rust
+- 👀 I’m interested in Python, Rust, Kotlin, TypeScript, JavaScript, Linux
+- 🌱 I’m currently learning Kotlin, Python, Rust
 - 👩 I have experience as a system administrator and programmer.
 - 🔖 My site https://valeria.fadeeva.me 
 - 💬 Write to me on [Telegram](https://t.me/Valeria_Fadeeva_me)
