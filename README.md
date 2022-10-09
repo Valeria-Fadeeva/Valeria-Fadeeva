@@ -20,7 +20,7 @@
 - 🐦 [Twitter](https://twitter.com/LeraFoxQueen)
 - 💬 [Telegram](https://t.me/Valeria_Fadeeva_me)
 - 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
-- ❤️ [Subscribe to update](https://boosty.to/valeria.fadeeva/ref)
+- ❤️ [Subscribe to update](https://boosty.to/valeria.fadeeva)
 - ☕ [Buy me a coffee](https://yoomoney.ru/to/4100115921160758)
 
 ### Courses:
