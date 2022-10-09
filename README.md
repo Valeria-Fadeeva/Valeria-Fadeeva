@@ -9,9 +9,9 @@
 - 💬 Write to me on [Telegram](https://t.me/Valeria_Fadeeva_me)
 
 ## ❤️ My choice: 
-- **Python** (**Django, DRF, Django ORM**, Flask, AioHTTP, FastAPI, **SQLAlchemy**)
+- **Python** (Django, DRF, Django ORM, **Flask, AioHTTP, FastAPI, SQLAlchemy**)
 - **JS** (**Vue**, Vite, React)
-- Rust (Tokio, Rocket, Warp)
+- Rust
 - **SQL** (**SQLite, PostgreSQL**)
 - **Kotlin Multiplatform Mobile** or Dart/Flutter
 
