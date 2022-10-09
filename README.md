@@ -15,7 +15,7 @@
 - **Kotlin Multiplatform Mobile** or Dart/Flutter
 
 ### @Valeria_Fadeeva
-- 🌟 [Discord Server of my community](https://discord.gg/cY68zDnnqF)
+- 🌟 [Discord Server of my community](https://discord.gg/725zXx7RhJ)
 - 📺 [YouTube](https://www.youtube.com/channel/UCAP6bWBoRYX7XGsSJYbMzmA)
 - 📺 [Twitch](https://www.twitch.tv/valeria_fadeeva)
 - 🐦 [Twitter](https://twitter.com/LeraFoxQueen)
@@ -23,15 +23,6 @@
 - 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
 - ❤️ [Subscribe to update](https://boosty.to/valeria.fadeeva)
 - ☕ [Buy me a coffee](https://yoomoney.ru/to/4100115921160758)
-
-### Courses:
-- ✅ Intro in C
-- ✅ Basics PHP
-- ✅ Basics Python
-- ✅ Basics JavaScript
-- ✅ Basics command shell
-- ✅ Intro in Git
-- ✅ LL-101: Basics of working in the Linux operating system
 
 ![Valeria-Fadeeva GitHub stats](https://github-readme-stats.vercel.app/api?username=Valeria-Fadeeva&show_icons=true&theme=radical)
 
