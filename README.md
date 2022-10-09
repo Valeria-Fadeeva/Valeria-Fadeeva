@@ -4,6 +4,7 @@
 - 👀 I’m interested in Python, Rust, Kotlin, TypeScript, JavaScript, Linux
 - 🌱 I’m currently learning Kotlin, Python, Rust
 - 👩 I have experience as a system administrator and programmer.
+- 🔖 My site https://fadeeva.me 
 - 🔖 My site https://valeria.fadeeva.me 
 - 💬 Write to me on [Telegram](https://t.me/Valeria_Fadeeva_me)
 
