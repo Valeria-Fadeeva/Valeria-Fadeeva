@@ -19,7 +19,6 @@
 - 🌟 [Discord Server of my community](https://discord.gg/725zXx7RhJ)
 - 📺 [YouTube](https://www.youtube.com/channel/UCAP6bWBoRYX7XGsSJYbMzmA)
 - 📺 [Twitch](https://www.twitch.tv/valeria_fadeeva)
-- 🐦 [Twitter](https://twitter.com/LeraFoxQueen)
 - 💬 [Telegram](https://t.me/Valeria_Fadeeva_me)
 - 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
 - ❤️ [Subscribe to update](https://boosty.to/valeria.fadeeva)
