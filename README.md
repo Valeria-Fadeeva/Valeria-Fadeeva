@@ -16,7 +16,7 @@
 - **Kotlin Multiplatform Mobile**, Dart/Flutter
 
 ### @Valeria_Fadeeva
-- 🌟 [Discord Server of my community](https://discord.gg/725zXx7RhJ)
+- 🌟 [Discord community](https://discord.gg/725zXx7RhJ)
 - 📺 [YouTube](https://www.youtube.com/channel/UCAP6bWBoRYX7XGsSJYbMzmA)
 - 📺 [Twitch](https://www.twitch.tv/valeria_fadeeva)
 - 💬 [Telegram](https://t.me/Valeria_Fadeeva_me)
