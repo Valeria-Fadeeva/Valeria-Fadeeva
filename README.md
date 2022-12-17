@@ -17,7 +17,7 @@
 
 ### @Valeria_Fadeeva
 - 🌟 [Discord community](https://discord.gg/725zXx7RhJ)
-- 📺 [YouTube](https://www.youtube.com/@ValeriaFadeeva)
+- 📺 [YouTube](https://www.youtube.com/@Valeria_Fadeeva)
 - 📺 [Twitch](https://www.twitch.tv/valeria_fadeeva)
 - 💬 [Telegram](https://t.me/Valeria_Fadeeva_me)
 - 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
