@@ -9,11 +9,11 @@
 - 💬 Write to me on [Telegram](https://t.me/Valeria_Fadeeva_me)
 
 ## ❤️ My choice: 
-- **Python** (**Flask, AioHTTP, FastAPI, SQLAlchemy**, Django, DRF, Django ORM)
-- **JS** (**Vue**, Vite, React)
-- **SQL** (**SQLite, PostgreSQL**)
 - **Rust**
+- **Python** (**Flask, AioHTTP, FastAPI, SQLAlchemy**, Django, DRF, Django ORM)
 - **Kotlin Multiplatform Mobile**, Dart/Flutter
+- **JS** (**Vue**, Vite, Alpine)
+- **SQL** (**SQLite, PostgreSQL**)
 
 ### @Valeria_Fadeeva
 - 🌟 [Discord community](https://discord.gg/725zXx7RhJ)
@@ -21,7 +21,6 @@
 - 📺 [Twitch](https://www.twitch.tv/valeria_fadeeva)
 - 💬 [Telegram](https://t.me/Valeria_Fadeeva_me)
 - 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
-- ❤️ [Subscribe to update](https://boosty.to/valeria.fadeeva)
 - ☕ [Buy me a coffee](https://yoomoney.ru/to/4100115921160758)
 
 ![Valeria-Fadeeva GitHub stats](https://github-readme-stats.vercel.app/api?username=Valeria-Fadeeva&show_icons=true&theme=radical)
