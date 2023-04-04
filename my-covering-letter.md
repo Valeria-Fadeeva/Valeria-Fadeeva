@@ -18,7 +18,7 @@ https://github.com/Valeria-Fadeeva/Valeria-Fadeeva/blob/main/my-covering-letter.
 
 Контакты: 
 
-telegram: <https://t.me/Valeria_Fadeeva> - предпочитаемый способ связи
+telegram: <https://t.me/Developer_Valeria_Fadeeva> - предпочитаемый способ связи
 
 email: <valeria@fadeeva.me>
 
