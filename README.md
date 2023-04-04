@@ -6,22 +6,22 @@
 - 👩 I have experience as a system administrator and programmer.
 - 🔖 My site https://fadeeva.me 
 - 🔖 My site https://valeria.fadeeva.me 
-- 💬 Write to me on [Telegram](https://t.me/Valeria_Fadeeva_me)
+- 💬 Write to me on [Telegram](https://t.me/Developer_Valeria_Fadeeva)
 
 ## ❤️ My choice: 
 - **Rust**
-- **Python** (**Flask, AioHTTP, FastAPI, SQLAlchemy**, Django, DRF, Django ORM)
+- **Python** (Flask, AioHTTP, FastAPI, SQLAlchemy, Django, DRF, Django ORM)
 - **Kotlin Multiplatform Mobile**, Dart/Flutter
-- **JS** (**Vue**, Vite, Alpine)
-- **SQL** (**SQLite, PostgreSQL**)
+- **JS** (Vue, Vite, Alpine)
+- **SQL** (SQLite, PostgreSQL)
 
 ### @Valeria_Fadeeva
 - 🌟 [Discord community](https://discord.gg/725zXx7RhJ)
 - 📺 [YouTube](https://www.youtube.com/@Valeria_Fadeeva)
 - 📺 [Twitch](https://www.twitch.tv/valeria_fadeeva)
-- 💬 [Telegram](https://t.me/Valeria_Fadeeva_me)
+- 💬 [Telegram](https://t.me/Developer_Valeria_Fadeeva)
 - 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
-- ☕ [Buy me a coffee](https://yoomoney.ru/to/4100115921160758)
+- 💰 [Support me](https://www.tinkoff.ru/rm/fadeeva.valeriya96/9bLRi79066)
 
 ![Valeria-Fadeeva GitHub stats](https://github-readme-stats.vercel.app/api?username=Valeria-Fadeeva&show_icons=true&theme=radical)
 
