@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Valeria-Fadeeva
 - 🌎 I live in Russia, Ekaterinburg
 - 👀 I’m interested in Rust, Python, Kotlin, TypeScript, JavaScript, Linux
-- 🌱 I’m currently learning Rust, Python, Kotlin
+- 🌱 I’m currently learning Rust, Python
 - 👩 I have experience as a system administrator and programmer.
 - 🔖 My site https://fadeeva.me 
 - 🔖 My site https://valeria.fadeeva.me 
