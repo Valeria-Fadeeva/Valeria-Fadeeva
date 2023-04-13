@@ -1,7 +1,7 @@
 # 🌸 About Me
 - 👋 Hi, I’m @Valeria-Fadeeva
 - 🌎 I live in Russia, Ekaterinburg
-- 👀 I’m interested in Rust, Python, Kotlin, TypeScript, JavaScript, Linux
+- 👀 I’m interested in Rust, Python, Kotlin, TypeScript, JavaScript, PostgreSQL, SQLite, NoSQL, Linux
 - 🌱 I’m currently learning Rust, Python
 - 👩 I have experience as a system administrator and programmer.
 - 🔖 My site https://fadeeva.me 
@@ -9,8 +9,8 @@
 - 💬 Write to me on [Telegram](https://t.me/Developer_Valeria_Fadeeva)
 
 ## ❤️ My choice: 
-- **Rust**
-- **Python** (Flask, AioHTTP, FastAPI, SQLAlchemy, Django, DRF, Django ORM)
+- **Rust** (Actix, Dioxus, Yew, Pixels, Rust_MiniFB)
+- **Python** (Poetry, FastAPI, AioHTTP, AsyncIO, Pydantic, SQLAlchemy, Flask, Django, DRF, Django ORM)
 - **Kotlin Multiplatform Mobile**, Dart/Flutter
 - **JS** (Vue, Vite, Alpine)
 - **SQL** (SQLite, PostgreSQL)
