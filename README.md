@@ -27,7 +27,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Melawy linux repository
-- [Melawy database](https://github.com/Valeria-Fadeeva/melawy-repo)
-- [dracut-initramfs](https://github.com/Valeria-Fadeeva/melawy-dracut-initramfs)
-- [dracut-ukify](https://github.com/Valeria-Fadeeva/melawy-dracut-ukify)
-- [refind-menu-generator](https://github.com/Valeria-Fadeeva/melawy-refind-menu-generator)
+|Name|Writed in|Description|
+|----|---------|-----------|
+| [Melawy database](https://github.com/Valeria-Fadeeva/melawy-repo) | | | |
+| [dracut-initramfs](https://github.com/Valeria-Fadeeva/melawy-dracut-initramfs) | [Bash](https://ru.wikipedia.org/wiki/Bash) | Integration layer for dracut for Arch Linux. Placing kernels to /ESP_PATH/EFI/Linux |
+| [dracut-ukify](https://github.com/Valeria-Fadeeva/melawy-dracut-ukify) | [Bash](https://ru.wikipedia.org/wiki/Bash) | Integration layer for dracut and systemd's ukify tool for Arch Linux. Placing kernels to /ESP_PATH/EFI/Linux |
+| [refind-menu-generator](https://github.com/Valeria-Fadeeva/melawy-refind-menu-generator) | [Bash](https://ru.wikipedia.org/wiki/Bash) | Menu generator for rEFInd loader for kernels in /ESP_PATH/EFI/Linux for Arch Linux
+
+### My special programs
+|Name|Writed in|Description|
+|----|---------|-----------|
+| [image-font-ganerator-from-truetype](https://github.com/Valeria-Fadeeva/image-font-ganerator-from-truetype) | [Python](https://www.python.org/) | needed for creating normal size fonts with transparent background for [rEFInd loader](http://www.rodsbooks.com/refind/) |
+| [remove-duplicate](https://github.com/Valeria-Fadeeva/remove-duplicate-rust) | [Rust](https://www.rust-lang.org/) | remove duplicates to leave only changed files |
