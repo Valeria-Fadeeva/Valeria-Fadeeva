@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Melawy linux repository
-- [Melawy database](./melawy-repo)
-- [dracut-initramfs](./melawy-dracut-initramfs)
-- [dracut-ukify](./melawy-dracut-ukify)
-- [refind-menu-generator](./melawy-refind-menu-generator)
+- [Melawy database](melawy-repo)
+- [dracut-initramfs](melawy-dracut-initramfs)
+- [dracut-ukify](melawy-dracut-ukify)
+- [refind-menu-generator](melawy-refind-menu-generator)
