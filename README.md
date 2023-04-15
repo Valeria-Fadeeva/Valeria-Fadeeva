@@ -6,7 +6,7 @@
 - 👩 I have experience as a system administrator and programmer.
 - 🔖 My site https://fadeeva.me 
 - 🔖 My site https://valeria.fadeeva.me 
-- 💬 Write to me on [Telegram](https://t.me/Developer_Valeria_Fadeeva)
+- 💬 Write to me on [Telegram](https://t.me/Melawy_tyan)
 
 ## ❤️ My choice: 
 - **Rust** (Actix, Dioxus, Yew, Pixels, Rust_MiniFB)
@@ -18,18 +18,8 @@
 ### @Valeria_Fadeeva
 - 🌟 [Discord community](https://discord.gg/725zXx7RhJ)
 - 📺 [YouTube](https://www.youtube.com/@Valeria_Fadeeva)
-- 📺 [Twitch](https://www.twitch.tv/valeria_fadeeva)
-- 💬 [Telegram](https://t.me/Developer_Valeria_Fadeeva)
-- 📸 [Instagram](https://www.instagram.com/valeria.fadeeva.me)
+- 💬 [Telegram](https://t.me/Melawy_tyan)
 - 💰 [Support me](https://www.tinkoff.ru/rm/fadeeva.valeriya96/9bLRi79066)
-
-![Valeria-Fadeeva GitHub stats](https://github-readme-stats.vercel.app/api?username=Valeria-Fadeeva&show_icons=true&theme=radical)
-
-### My resume
-https://github.com/Valeria-Fadeeva/Valeria-Fadeeva/blob/main/my-resume.md
-
-### My covering letter
-https://github.com/Valeria-Fadeeva/Valeria-Fadeeva/blob/main/my-covering-letter.md
 
 <!---
 Valeria-Fadeeva/Valeria-Fadeeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
