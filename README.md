@@ -39,3 +39,12 @@ You can click the Preview link to take a look at your changes.
 |----|---------|-----------|
 | [image-font-ganerator-from-truetype](https://github.com/Valeria-Fadeeva/image-font-ganerator-from-truetype) | [Python](https://www.python.org/) | needed for creating normal size fonts with transparent background for [rEFInd loader](http://www.rodsbooks.com/refind/) |
 | [remove-duplicate](https://github.com/Valeria-Fadeeva/remove-duplicate-rust) | [Rust](https://www.rust-lang.org/) | remove duplicates to leave only changed files |
+
+### Donate
+[Tinkoff](https://www.tinkoff.ru/rm/fadeeva.valeriya96/9bLRi79066)
+
+[YooMoney](https://yoomoney.ru/to/4100115921160758)
+
+[Qiwi](https://qiwi.com/n/VALERIAFADEEVA)
+
+Etherium 0x981FBf878fe451BDB83BEaF68078394d4B13213f
