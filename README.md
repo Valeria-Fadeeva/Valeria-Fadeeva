@@ -26,13 +26,30 @@ Valeria-Fadeeva/Valeria-Fadeeva is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-### Melawy linux repository
+### [Melawy linux repository](https://github.com/Melawy)
+#### Core
 |Name|Writed in|Description|
 |----|---------|-----------|
-| [Melawy database](https://github.com/Valeria-Fadeeva/melawy-repo) | | | |
-| [dracut-initramfs](https://github.com/Valeria-Fadeeva/melawy-dracut-initramfs) | [Bash](https://ru.wikipedia.org/wiki/Bash) | Integration layer for dracut for Arch Linux. Placing kernels to /ESP_PATH/EFI/Linux |
-| [dracut-ukify](https://github.com/Valeria-Fadeeva/melawy-dracut-ukify) | [Bash](https://ru.wikipedia.org/wiki/Bash) | Integration layer for dracut and systemd's ukify tool for Arch Linux. Placing kernels to /ESP_PATH/EFI/Linux |
-| [refind-menu-generator](https://github.com/Valeria-Fadeeva/melawy-refind-menu-generator) | [Bash](https://ru.wikipedia.org/wiki/Bash) | Menu generator for rEFInd loader for kernels in /ESP_PATH/EFI/Linux for Arch Linux
+| [Melawy database](https://github.com/Melawy/repo) | | | |
+| [dracut-initramfs](https://github.com/Melawy/dracut-initramfs) | [Bash](https://ru.wikipedia.org/wiki/Bash) | Integration layer for dracut for Arch Linux. Placing kernels to /ESP_PATH/EFI/Linux |
+| [dracut-ukify](https://github.com/Melawy/dracut-ukify) | [Bash](https://ru.wikipedia.org/wiki/Bash) | Integration layer for dracut and systemd's ukify tool for Arch Linux. Placing kernels to /ESP_PATH/EFI/Linux |
+| [refind-menu-generator](https://github.com/Melawy/refind-menu-generator) | [Bash](https://ru.wikipedia.org/wiki/Bash) | Menu generator for rEFInd loader for kernels in /ESP_PATH/EFI/Linux for Arch Linux
+
+#### Design
+|Name|Description|
+|----|-----------|
+| [color-scheme](https://github.com/Melawy/color-scheme) | Color profile for KDE for Melawy Linux |
+| [color-scheme-konsole](https://github.com/Melawy/color-scheme-konsole) | Color profile for Konsole for Melawy Linux |
+| [plasma-desktop-theme](https://github.com/Melawy/plasma-desktop-theme) | Desktop theme for KDE for Melawy Linux |
+| [plasma-look-and-feel-lera-sugar](https://github.com/Melawy/plasma-look-and-feel-lera-sugar) | Splash screen after login for theme Lera Sugar |
+| [plasma-plasmoid-archupdate](https://github.com/Melawy/plasma-plasmoid-archupdate) | Arch update plasmoid |
+| [plasma-plasmoid-Menu11](https://github.com/Melawy/plasma-plasmoid-Menu11) | Menu11 plasmoid |
+| [plasma-plasmoid-OnzeMenuKDE](https://github.com/Melawy/plasma-plasmoid-OnzeMenuKDE) | OnzeMenuKDE plasmoid |
+| [plymouth-theme-lera-sugar](https://github.com/Melawy/plymouth-theme-lera-sugar) | Plymouth theme for theme Lera Sugar |
+| [refind-theme-lera-sugar](https://github.com/Melawy/refind-theme-lera-sugar) | rEFInd bootloader theme Lera Sugar |
+| [sddm-theme-lera-sugar](https://github.com/Melawy/sddm-theme-lera-sugar) | SDDM theme for theme Lera Sugar |
+| [wallpaper-lera-sugar](https://github.com/Melawy/wallpaper-lera-sugar) | Wallpaper for theme Lera Sugar |
+
 
 ### My special programs
 |Name|Writed in|Description|
