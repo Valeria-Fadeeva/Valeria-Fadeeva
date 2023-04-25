@@ -6,7 +6,7 @@
 - 👩 I have experience as a system administrator and programmer.
 - 🔖 My site https://fadeeva.me 
 - 🔖 My site https://valeria.fadeeva.me 
-- 💬 Write to me on [Telegram](https://t.me/Melawy_tyan)
+- 💬 Write me on [Telegram](https://t.me/Melawy_tyan)
 
 ## ❤️ My choice: 
 - **Rust** (Actix, Dioxus, Yew, Pixels, Rust_MiniFB)
