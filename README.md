@@ -18,6 +18,7 @@
 ### @Valeria_Fadeeva
 - 🌟 [Discord community](https://discord.gg/725zXx7RhJ)
 - 📺 [YouTube](https://www.youtube.com/@Valeria_Fadeeva)
+- 📺 [YouTube](https://www.youtube.com/@Melawy)
 - 💬 [Telegram](https://t.me/Melawy_tyan)
 - 💰 [Support me](https://www.tinkoff.ru/rm/fadeeva.valeriya96/9bLRi79066)
 
@@ -25,6 +26,17 @@
 Valeria-Fadeeva/Valeria-Fadeeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Web Development
+|Name|Writed in|Description|
+|----|---------|-----------|
+| [fastapi-job-candidate](https://github.com/Valeria-Fadeeva/fastapi-job-candidate) | [Python](https://www.python.org/), [JavaScript](https://ru.wikipedia.org/wiki/JavaScript) | Docker ready demo app: database of job candidate |
+
+### My special programs
+|Name|Writed in|Description|
+|----|---------|-----------|
+| [image-font-ganerator-from-truetype](https://github.com/Valeria-Fadeeva/image-font-ganerator-from-truetype) | [Python](https://www.python.org/) | needed for creating normal size fonts with transparent background for [rEFInd loader](http://www.rodsbooks.com/refind/) |
+| [remove-duplicate](https://github.com/Valeria-Fadeeva/remove-duplicate-rust) | [Rust](https://www.rust-lang.org/) | remove duplicates to leave only changed files |
 
 ### [Melawy linux repository](https://github.com/Melawy)
 #### Core
@@ -50,12 +62,6 @@ You can click the Preview link to take a look at your changes.
 | [sddm-theme-lera-sugar](https://github.com/Melawy/sddm-theme-lera-sugar) | SDDM theme for theme Lera Sugar |
 | [wallpaper-lera-sugar](https://github.com/Melawy/wallpaper-lera-sugar) | Wallpaper for theme Lera Sugar |
 
-
-### My special programs
-|Name|Writed in|Description|
-|----|---------|-----------|
-| [image-font-ganerator-from-truetype](https://github.com/Valeria-Fadeeva/image-font-ganerator-from-truetype) | [Python](https://www.python.org/) | needed for creating normal size fonts with transparent background for [rEFInd loader](http://www.rodsbooks.com/refind/) |
-| [remove-duplicate](https://github.com/Valeria-Fadeeva/remove-duplicate-rust) | [Rust](https://www.rust-lang.org/) | remove duplicates to leave only changed files |
 
 ### Donate
 [Tinkoff](https://www.tinkoff.ru/rm/fadeeva.valeriya96/9bLRi79066)
