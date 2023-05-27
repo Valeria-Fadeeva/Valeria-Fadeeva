@@ -70,4 +70,9 @@ You can click the Preview link to take a look at your changes.
 
 [Qiwi](https://qiwi.com/n/VALERIAFADEEVA)
 
+
+<a href="https://nowpayments.io/donation?api_key=8Q6DDWH-YYQ4SRQ-JNSMG5B-E7FPYK9&source=lk_donation&medium=referral" target="_blank">
+ <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+</a>
+    
 Etherium 0x981FBf878fe451BDB83BEaF68078394d4B13213f
