@@ -55,14 +55,26 @@ You can click the Preview link to take a look at your changes.
 |----|---------|-----------|
 | [dracut initramfs](https://git.melawy.ru/Melawy-Linux/dracut-initramfs) | Bash | Integration layer for dracut for Arch Linux. Placing kernels to /ESP_PATH/EFI/Linux |
 | [dracut ukify](https://git.melawy.ru/Melawy-Linux/dracut-ukify) | Bash | Integration layer for dracut and systemd's ukify tool for Arch Linux. Placing kernels to /ESP_PATH/EFI/Linux |
-| [refind menu generator](https://github.com/Melawy/refind-menu-generator) | Bash | Menu generator for rEFInd loader for kernels in /ESP_PATH/EFI/Linux for Arch Linux |
+| [refind menu generator](https://git.melawy.ru/Melawy-Linux/refind-menu-generator) | Bash | Menu generator for rEFInd loader for kernels in /ESP_PATH/EFI/Linux for Arch Linux |
+
+|Name|Writed in|Description|
+|----|---------|-----------|
 | [etc skel](https://git.melawy.ru/Melawy-Linux/etc-skel) | TXT | etc skel for Melawy Linux |
 | [linux keyring](https://git.melawy.ru/Melawy-Linux/linux-keyring) | TXT | Melawy Linux GnuPG keyring |
 | [linux mirrorlist](https://git.melawy.ru/Melawy-Linux/linux-mirrorlist) | TXT | Melawy Linux mirror list for use by pacman |
+
+|Name|Writed in|Description|
+|----|---------|-----------|
 | [arch linux updater](https://git.melawy.ru/Melawy-Linux/arch-linux-updater) | Rust | Arch linux updater for Melawy Linux |
+
+|Name|Writed in|Description|
+|----|---------|-----------|
 | [archiso config](https://git.melawy.ru/Melawy-Linux/archiso-config) | Bash | shell, config and profile files for making LiveDVD |
 | [calamares](https://git.melawy.ru/Melawy-Linux/calamares) | C++/Python | Installer for Melawy Linux |
 | [calamares configs](https://git.melawy.ru/Melawy-Linux/calamares-configs) | TXT | Config files for Installer for Melawy Linux |
+
+|Name|Writed in|Description|
+|----|---------|-----------|
 | [PKGBUILD](https://git.melawy.ru/Melawy-Linux/PKGBUILD) | TXT | PKGBUILD files from Melawy Linux |
 
 #### Design
