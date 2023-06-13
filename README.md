@@ -72,6 +72,7 @@ You can click the Preview link to take a look at your changes.
 | [archiso config](https://git.melawy.ru/Melawy-Linux/archiso-config) | Bash | shell, config and profile files for making LiveDVD |
 | [calamares](https://git.melawy.ru/Melawy-Linux/calamares) | C++/Python | Installer for Melawy Linux |
 | [calamares configs](https://git.melawy.ru/Melawy-Linux/calamares-configs) | TXT | Config files for Installer for Melawy Linux |
+| [skel liveuser](https://git.melawy.ru/Melawy-Linux/skel-liveuser) | Liveuser specific skel setup for Melawy Linux |
 
 |Name|Writed in|Description|
 |----|---------|-----------|
@@ -87,21 +88,27 @@ You can click the Preview link to take a look at your changes.
 
 |Name|Description|
 |----|-----------|
+| [refind theme fenek](https://git.melawy.ru/Melawy-Linux/refind-theme-fenek) | rEFInd bootloader theme Fenek |
 | [plymouth theme fenek](https://git.melawy.ru/Melawy-Linux/plymouth-theme-fenek) | Plymouth theme for theme Fenek |
+| [sddm-theme-fenek](https://git.melawy.ru/Melawy-Linux/sddm-theme-fenek) | SDDM theme for theme Fenek |
 | [plasma look and feel fenek](https://git.melawy.ru/Melawy-Linux/plasma-look-and-feel-fenek) | Splash screen after login for theme Fenek |
+| [wallpaper fenek](https://git.melawy.ru/Melawy-Linux/wallpaper-fenek) | Wallpaper for theme Fenek |
 
 |Name|Description|
 |----|-----------|
-| [refind-theme-lera-sugar](https://github.com/Melawy/refind-theme-lera-sugar) | rEFInd bootloader theme Lera Sugar |
+| [refind-theme-lera-sugar](https://git.melawy.ru/Melawy-Linux/refind-theme-lera-sugar) | rEFInd bootloader theme Lera Sugar |
 | [plymouth-theme-lera-sugar](https://git.melawy.ru/Melawy-Linux/plymouth-theme-lera-sugar) | Plymouth theme for theme Lera Sugar |
-| [sddm-theme-lera-sugar](https://github.com/Melawy/sddm-theme-lera-sugar) | SDDM theme for theme Lera Sugar |
+| [sddm-theme-lera-sugar](https://git.melawy.ru/Melawy-Linux/sddm-theme-lera-sugar) | SDDM theme for theme Lera Sugar |
 | [plasma-look-and-feel-lera-sugar](https://git.melawy.ru/Melawy-Linux/plasma-look-and-feel-lera-sugar) | Splash screen after login for theme Lera Sugar |
-| [wallpaper-lera-sugar](https://github.com/Melawy/wallpaper-lera-sugar) | Wallpaper for theme Lera Sugar |
+| [wallpaper-lera-sugar](https://git.melawy.ru/Melawy-Linux/wallpaper-lera-sugar) | Wallpaper for theme Lera Sugar |
 
 |Name|Description|
 |----|-----------|
+| [refind theme nier a2](https://git.melawy.ru/Melawy-Linux/refind-theme-nier-a2) | rEFInd bootloader theme Nier A2 |
 | [plymouth theme nier a2](https://git.melawy.ru/Melawy-Linux/plymouth-theme-nier-a2) | Plymouth theme for theme Nier A2 |
+| [sddm theme nier a2](https://git.melawy.ru/Melawy-Linux/sddm-theme-nier-a2) | SDDM theme for theme Nier A2 |
 | [plasma look and feel nier a2](https://git.melawy.ru/Melawy-Linux/plasma-look-and-feel-nier-a2) | Splash screen after login for theme Nier A2 |
+| [wallpaper nier a2](https://git.melawy.ru/Melawy-Linux/wallpaper-nier-a2) | Wallpaper for theme Nier A2 |
 
 |Name|Description|
 |----|-----------|
