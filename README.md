@@ -30,13 +30,13 @@ You can click the Preview link to take a look at your changes.
 ### Web Development
 |Name|Writed in|Description|
 |----|---------|-----------|
-| [fastapi-job-candidate](https://github.com/Valeria-Fadeeva/fastapi-job-candidate) | Python, JavaScript | Docker ready demo app: database of job candidate |
+| [fastapi job candidate](https://github.com/Valeria-Fadeeva/fastapi-job-candidate) | Python, JavaScript | Docker ready demo app: database of job candidate |
 
 ### My special programs
 |Name|Writed in|Description|
 |----|---------|-----------|
-| [image-font-ganerator-from-truetype](https://github.com/Valeria-Fadeeva/image-font-ganerator-from-truetype) | Python | needed for creating normal size fonts with transparent background for [rEFInd loader](http://www.rodsbooks.com/refind/) |
-| [remove-duplicate](https://github.com/Valeria-Fadeeva/remove-duplicate-rust) | Rust | remove duplicates to leave only changed files |
+| [image font ganerator from truetype](https://github.com/Valeria-Fadeeva/image-font-ganerator-from-truetype) | Python | needed for creating normal size fonts with transparent background for [rEFInd loader](http://www.rodsbooks.com/refind/) |
+| [remove duplicate](https://github.com/Valeria-Fadeeva/remove-duplicate-rust) | Rust | remove duplicates to leave only changed files |
 
 ### [Melawy linux site](https://melawy.ru)
 ### [Melawy linux repository (GitHub)](https://github.com/Melawy)
@@ -49,36 +49,37 @@ You can click the Preview link to take a look at your changes.
 | https://github.com/Melawy/melawy-aur-theme-repo | Linux repo of AUR arch linux theme packages  |
 
 ### [Melawy linux repository (Menawy.ru)](https://git.melawy.ru/)
-
 #### Core
 |Name|Writed in|Description|
 |----|---------|-----------|
 | [dracut initramfs](https://git.melawy.ru/Melawy-Linux/dracut-initramfs) | Bash | Integration layer for dracut for Arch Linux. Placing kernels to /ESP_PATH/EFI/Linux |
 | [dracut ukify](https://git.melawy.ru/Melawy-Linux/dracut-ukify) | Bash | Integration layer for dracut and systemd's ukify tool for Arch Linux. Placing kernels to /ESP_PATH/EFI/Linux |
 | [refind menu generator](https://git.melawy.ru/Melawy-Linux/refind-menu-generator) | Bash | Menu generator for rEFInd loader for kernels in /ESP_PATH/EFI/Linux for Arch Linux |
-
-|Name|Writed in|Description|
-|----|---------|-----------|
-| [etc skel](https://git.melawy.ru/Melawy-Linux/etc-skel) | TXT | etc skel for Melawy Linux |
 | [linux keyring](https://git.melawy.ru/Melawy-Linux/linux-keyring) | TXT | Melawy Linux GnuPG keyring |
 | [linux mirrorlist](https://git.melawy.ru/Melawy-Linux/linux-mirrorlist) | TXT | Melawy Linux mirror list for use by pacman |
+| [etc skel](https://git.melawy.ru/Melawy-Linux/etc-skel) | TXT | etc skel for Melawy Linux |
 
+#### Updater
 |Name|Writed in|Description|
 |----|---------|-----------|
 | [arch linux updater](https://git.melawy.ru/Melawy-Linux/arch-linux-updater) | Rust | Arch linux updater for Melawy Linux |
+| [plasma plasmoid archupdate](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-archupdate) | QML | Arch update plasmoid |
 
+#### Installer
 |Name|Writed in|Description|
 |----|---------|-----------|
 | [archiso config](https://git.melawy.ru/Melawy-Linux/archiso-config) | Bash | shell, config and profile files for making LiveDVD |
 | [calamares](https://git.melawy.ru/Melawy-Linux/calamares) | C++/Python | Installer for Melawy Linux |
 | [calamares configs](https://git.melawy.ru/Melawy-Linux/calamares-configs) | TXT | Config files for Installer for Melawy Linux |
-| [skel liveuser](https://git.melawy.ru/Melawy-Linux/skel-liveuser) | Liveuser specific skel setup for Melawy Linux |
+| [skel liveuser](https://git.melawy.ru/Melawy-Linux/skel-liveuser) | TXT | Liveuser specific skel setup for Melawy Linux |
 
+#### PKGBUILDS
 |Name|Writed in|Description|
 |----|---------|-----------|
 | [PKGBUILD](https://git.melawy.ru/Melawy-Linux/PKGBUILD) | TXT | PKGBUILD files from Melawy Linux |
 
 #### Design
+#### Core theme
 |Name|Description|
 |----|-----------|
 | [color scheme](https://git.melawy.ru/Melawy-Linux/color-scheme) | Color profile for KDE for Melawy Linux |
@@ -86,22 +87,25 @@ You can click the Preview link to take a look at your changes.
 | [icon theme](https://git.melawy.ru/Melawy-Linux/icon-theme) | Icon theme for Melawy Linux |
 | [plasma desktop theme](https://git.melawy.ru/Melawy-Linux/plasma-desktop-theme) | Desktop theme for KDE for Melawy Linux |
 
+#### Fenek
 |Name|Description|
 |----|-----------|
 | [refind theme fenek](https://git.melawy.ru/Melawy-Linux/refind-theme-fenek) | rEFInd bootloader theme Fenek |
 | [plymouth theme fenek](https://git.melawy.ru/Melawy-Linux/plymouth-theme-fenek) | Plymouth theme for theme Fenek |
-| [sddm-theme-fenek](https://git.melawy.ru/Melawy-Linux/sddm-theme-fenek) | SDDM theme for theme Fenek |
+| [sddm theme fenek](https://git.melawy.ru/Melawy-Linux/sddm-theme-fenek) | SDDM theme for theme Fenek |
 | [plasma look and feel fenek](https://git.melawy.ru/Melawy-Linux/plasma-look-and-feel-fenek) | Splash screen after login for theme Fenek |
 | [wallpaper fenek](https://git.melawy.ru/Melawy-Linux/wallpaper-fenek) | Wallpaper for theme Fenek |
 
+#### Lera Sugar
 |Name|Description|
 |----|-----------|
-| [refind-theme-lera-sugar](https://git.melawy.ru/Melawy-Linux/refind-theme-lera-sugar) | rEFInd bootloader theme Lera Sugar |
-| [plymouth-theme-lera-sugar](https://git.melawy.ru/Melawy-Linux/plymouth-theme-lera-sugar) | Plymouth theme for theme Lera Sugar |
-| [sddm-theme-lera-sugar](https://git.melawy.ru/Melawy-Linux/sddm-theme-lera-sugar) | SDDM theme for theme Lera Sugar |
-| [plasma-look-and-feel-lera-sugar](https://git.melawy.ru/Melawy-Linux/plasma-look-and-feel-lera-sugar) | Splash screen after login for theme Lera Sugar |
-| [wallpaper-lera-sugar](https://git.melawy.ru/Melawy-Linux/wallpaper-lera-sugar) | Wallpaper for theme Lera Sugar |
+| [refind theme lera sugar](https://git.melawy.ru/Melawy-Linux/refind-theme-lera-sugar) | rEFInd bootloader theme Lera Sugar |
+| [plymouth theme lera sugar](https://git.melawy.ru/Melawy-Linux/plymouth-theme-lera-sugar) | Plymouth theme for theme Lera Sugar |
+| [sddm theme lera sugar](https://git.melawy.ru/Melawy-Linux/sddm-theme-lera-sugar) | SDDM theme for theme Lera Sugar |
+| [plasma look and feel lera sugar](https://git.melawy.ru/Melawy-Linux/plasma-look-and-feel-lera-sugar) | Splash screen after login for theme Lera Sugar |
+| [wallpaper lera sugar](https://git.melawy.ru/Melawy-Linux/wallpaper-lera-sugar) | Wallpaper for theme Lera Sugar |
 
+#### Nier A2
 |Name|Description|
 |----|-----------|
 | [refind theme nier a2](https://git.melawy.ru/Melawy-Linux/refind-theme-nier-a2) | rEFInd bootloader theme Nier A2 |
@@ -110,6 +114,7 @@ You can click the Preview link to take a look at your changes.
 | [plasma look and feel nier a2](https://git.melawy.ru/Melawy-Linux/plasma-look-and-feel-nier-a2) | Splash screen after login for theme Nier A2 |
 | [wallpaper nier a2](https://git.melawy.ru/Melawy-Linux/wallpaper-nier-a2) | Wallpaper for theme Nier A2 |
 
+#### Cursors
 |Name|Description|
 |----|-----------|
 | [purple dark cursors](https://git.melawy.ru/Melawy-Linux/purple-dark-cursors) | Purple dark cursors theme for Melawy Linux |
@@ -121,15 +126,12 @@ You can click the Preview link to take a look at your changes.
 | [red light cursors](https://git.melawy.ru/Melawy-Linux/red-light-cursors) | Red light cursors theme for Melawy Linux |
 | [red light default cursors](https://git.melawy.ru/Melawy-Linux/red-light-default-cursors) | Red light default cursors theme for Melawy Linux |
 
+#### Start menu
 |Name|Description|
 |----|-----------|
-| [plasma-plasmoid-archupdate](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-archupdate) | Arch update plasmoid |
-| [DittoMenu](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-DittoMenu) | DittoMenu plasmoid |
-| [plasma-plasmoid-Menu11](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-Menu11) | Menu11 plasmoid |
-| [plasma-plasmoid-OnzeMenuKDE](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-OnzeMenuKDE) | OnzeMenuKDE plasmoid |
-
-
-
+| [plasma plasmoid DittoMenu](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-DittoMenu) | DittoMenu plasmoid |
+| [plasma plasmoid Menu11](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-Menu11) | Menu11 plasmoid |
+| [plasma plasmoid OnzeMenuKDE](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-OnzeMenuKDE) | OnzeMenuKDE plasmoid |
 
 ### Donate
 [Tinkoff](https://www.tinkoff.ru/rm/fadeeva.valeriya96/9bLRi79066)
