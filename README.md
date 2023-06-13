@@ -93,6 +93,17 @@ You can click the Preview link to take a look at your changes.
 
 |Name|Description|
 |----|-----------|
+| [purple dark cursors](https://git.melawy.ru/Melawy-Linux/purple-dark-cursors) | Purple dark cursors theme for Melawy Linux |
+| [purple dark default cursors](https://git.melawy.ru/Melawy-Linux/purple-dark-default-cursors) | Purple dark default cursors theme for Melawy Linux |
+| [purple light cursors](https://git.melawy.ru/Melawy-Linux/purple-light-cursors) | Purple dark default cursors theme for Melawy Linux |
+| [purple light default cursors](https://git.melawy.ru/Melawy-Linux/purple-light-default-cursors) | Purple light default cursors theme for Melawy Linux |
+| [red dark cursors](https://git.melawy.ru/Melawy-Linux/red-dark-cursors) | Red dark cursors theme for Melawy Linux |
+| [red dark default cursors](https://git.melawy.ru/Melawy-Linux/red-dark-default-cursors) | Red dark default cursors theme for Melawy Linux |
+| [red light cursors](https://git.melawy.ru/Melawy-Linux/red-light-cursors) | Red light cursors theme for Melawy Linux |
+| [red light default cursors](https://git.melawy.ru/Melawy-Linux/red-light-default-cursors) | Red light default cursors theme for Melawy Linux |
+
+|Name|Description|
+|----|-----------|
 | [plasma-plasmoid-archupdate](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-archupdate) | Arch update plasmoid |
 | [DittoMenu](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-DittoMenu) | DittoMenu plasmoid |
 | [plasma-plasmoid-Menu11](https://git.melawy.ru/Melawy-Linux/plasma-plasmoid-Menu11) | Menu11 plasmoid |
