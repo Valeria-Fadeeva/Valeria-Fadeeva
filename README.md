@@ -8,6 +8,9 @@
 - 🔖 My site https://valeria.fadeeva.me 
 - 💬 Write me on [Telegram](https://t.me/Melawy_tyan)
 
+## ❤️ My projects: 
+- 🌟  [Melawy Linux](https://github.com/Melawy)
+
 ## ❤️ My choice: 
 - **Rust** (Actix, Dioxus, Yew, Pixels, Rust_MiniFB)
 - **Python** (Poetry, FastAPI, AioHTTP, AsyncIO, Pydantic, SQLAlchemy, Flask, Django, DRF, Django ORM)
@@ -15,7 +18,7 @@
 - **JS** (Vue, Vite, Alpine)
 - **SQL** (SQLite, PostgreSQL)
 
-### @Valeria_Fadeeva
+## @Valeria_Fadeeva
 - 🌟 [Discord community](https://discord.gg/725zXx7RhJ)
 - 📺 [YouTube](https://www.youtube.com/@Valeria_Fadeeva)
 - 📺 [YouTube](https://www.youtube.com/@Melawy)
