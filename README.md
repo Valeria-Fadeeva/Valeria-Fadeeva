@@ -46,10 +46,7 @@ You can click the Preview link to take a look at your changes.
 |Name|Description|
 |----|-----------|
 | https://github.com/Melawy/melawy-repo | Linux repo of my arch linux packages |
-| https://github.com/Melawy/melawy-aur-repo | Linux repo of AUR arch linux packages   |
-| https://github.com/Melawy/melawy-aur-gui-app-repo | Linux repo of AUR arch linux gui app packages |
-| https://github.com/Melawy/melawy-aur-kde-repo | Linux repo of AUR arch linux kde packages  |
-| https://github.com/Melawy/melawy-aur-theme-repo | Linux repo of AUR arch linux theme packages  |
+| https://github.com/Melawy/melawy-3party-repo | Linux repo of third party arch linux packages   |
 
 ### [Melawy linux repository (Menawy.ru)](https://git.melawy.ru/)
 #### Core
