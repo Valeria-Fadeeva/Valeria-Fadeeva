@@ -46,33 +46,6 @@ You can click the Preview link to take a look at your changes.
 
 <tr>
  <td>
-  News
- </td>
- <td>
-  https://t.me/Melawy_news
- </td>
-</tr>
-
-<tr>
- <td>
-  Chat
- </td>
- <td>
-  https://t.me/Melawy_chat
- </td>
-</tr>
-
-<tr>
- <td>
-  GitHub
- </td>
- <td>
-  https://github.com/Melawy
- </td>
-</tr>
-
-<tr>
- <td>
   GitLab
  </td>
  <td>
