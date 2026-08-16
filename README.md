@@ -43,9 +43,9 @@ An independent, custom-tailored Arch Linux-based operating system architecture d
   </tr>
   <tr>
     <td>🧬 <b>GitLab Mirror</b></td>
-    <td><a href="https://gitlab.com">https://gitlab.com</a></td>
+    <td><a href="https://gitlab.com/melawy">https://gitlab.com</a></td>
     <td>📢 <b>Mastodon</b></td>
-    <td><a href="https://mastodon.social">@Melawy</a></td>
+    <td><a href="https://techhub.social/@Melawy">@Melawy</a></td>
   </tr>
 </table>
 
@@ -57,11 +57,11 @@ If you find my open-source projects or OS distributions valuable, you can suppor
 
 <p align="center">
   <a href="https://www.tinkoff.ru/rm/fadeeva.valeriya96/9bLRi79066" target="_blank">
-    <img src="https://shields.io💛%20Support-black?style=for-the-badge&logo=tinkoff" alt="Tinkoff Donation">
+    💛 Tinkoff Donation
   </a>
   &nbsp;
   <a href="https://yoomoney.ru/to/4100115921160758" target="_blank">
-    <img src="https://shields.io💜%20Donate-indigo?style=for-the-badge" alt="YooMoney Donation">
+    💜 YooMoney Donation
   </a>
 </p>
 
