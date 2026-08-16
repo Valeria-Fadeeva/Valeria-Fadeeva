@@ -32,14 +32,20 @@ An independent, custom-tailored Arch Linux-based operating system architecture d
   <tr>
     <td>🌐 <b>Official Website</b></td>
     <td><a href="https://Melawy.ru">https://Melawy.ru</a></td>
+    <td>📺 <b>YouTube Channel</b></td>
+    <td><a href="https://www.youtube.com/@melawy">@melawy</a></td>
   </tr>
   <tr>
     <td>🦊 <b>Self-Hosted Git</b></td>
     <td><a href="https://git.melawy.ru">https://git.melawy.ru</a></td>
+    <td>💬 <b>Discord Server</b></td>
+    <td><a href="https://discord.gg/725zXx7RhJ">Join Community</a></td>
   </tr>
   <tr>
     <td>🧬 <b>GitLab Mirror</b></td>
-    <td><a href="https://gitlab.com/melawy">https://gitlab.com/melawy</a></td>
+    <td><a href="https://gitlab.com">https://gitlab.com</a></td>
+    <td>📢 <b>Mastodon</b></td>
+    <td><a href="https://mastodon.social">@Melawy</a></td>
   </tr>
 </table>
 
