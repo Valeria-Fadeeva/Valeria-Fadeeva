@@ -57,7 +57,7 @@ If you find my open-source projects or OS distributions valuable, you can suppor
 
 <p align="center">
   <a href="https://www.tbank.ru/rm/fadeeva.valeriya96/9bLRi79066" target="_blank">
-    💛 Tinkoff Donation
+    💛 Tbank Donation
   </a>
   &nbsp;
   <a href="https://yoomoney.ru/to/4100115921160758" target="_blank">
