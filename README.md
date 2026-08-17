@@ -56,7 +56,7 @@ An independent, custom-tailored Arch Linux-based operating system architecture d
 If you find my open-source projects or OS distributions valuable, you can support my independent infrastructure maintenance here:
 
 <p align="center">
-  <a href="https://www.tinkoff.ru/rm/fadeeva.valeriya96/9bLRi79066" target="_blank">
+  <a href="https://www.tbank.ru/rm/fadeeva.valeriya96/9bLRi79066" target="_blank">
     💛 Tinkoff Donation
   </a>
   &nbsp;
