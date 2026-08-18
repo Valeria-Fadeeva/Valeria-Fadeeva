@@ -4,7 +4,7 @@
 - 🚀 **AI-Driven Edge:** Specializing in AI-assisted development pipelines and local LLM orchestration (`llama.cpp` + ROCm/HIP, `Qwen 3.8 27B Fable Distill` inference on custom optimized environments).
 - ⚙️ **Core Focus:** Building high-performance system software (Rust), automated deployment architectures (DevOps, Docker, PKGBUILD), and cross-platform native interfaces (Flutter/Dart).
 - 📍 **Location:** Russia, Yekaterinburg
-- 🌐 **Tech Hubs:** [lerafoxqueen.ru](https://lerafoxqueen.ru) | [git.melawy.ru](https://git.melawy.ru)
+- 🌐 **Tech Hubs:** [fadeeva.me](https://fadeeva.me) | [git.melawy.ru](https://git.melawy.ru)
 
 ---
 
